@@ -455,7 +455,7 @@ Top intro section
   border: 0;
   background: #333;
   color: #efefef;
-  background-image: url('../img/background.jpg');
+  background-image: url('https://fsworks.github.io/fsworks/img/background.jpg');
   background-size: cover;
   height: calc(200px + 40vw);
   position: relative;
